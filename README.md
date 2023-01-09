@@ -23,6 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 https://www.youtube.com/watch?v=U0vwutBL8Vk
 https://youtube.com/shorts/19YqfUHW36U?feature=share
 # Architecture du projet 
-voir l'image
+![alt text](https://github.com/faouziahamsy/pharmacie-localisation-client--paritie-mobile/blob/main/architecture%20client.jpeg)
 # License
 This project is licensed under the HAB License - see the LICENSE file for details.
